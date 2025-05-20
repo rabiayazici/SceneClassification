@@ -19,6 +19,9 @@ This project implements a scene classification model using EfficientNet-B0. The 
 - Sea
 - Street
 
+## Dataset
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
 ## Model Details
 - Base Model: EfficientNet-B0
 - Training: Fine-tuned on the last 3 blocks
