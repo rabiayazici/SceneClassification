@@ -35,6 +35,14 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 - Learning Rate: 0.001
 - Loss Function: Cross Entropy Loss
 
+## Training History
+![TrainingHistory](https://github.com/user-attachments/assets/298ccd63-c11e-44ce-a988-94faab12549f)
+
+
+## Confusion Matrix
+![confusionMatrix](https://github.com/user-attachments/assets/828b313c-b397-427e-a179-f09f6b20f23d)
+
+
 ## Usage
 The model is saved as `scene_classifier.pkl` and can be used for inference on new images.
 
